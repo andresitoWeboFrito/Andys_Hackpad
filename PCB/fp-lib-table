@@ -1,6 +1,6 @@
 (fp_lib_table
   (version 7)
-  (lib (name "OPL_footprint")(type "KiCad")(uri "C:/Users/jandr/Documents/Macropad/kicad_lib/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library")(options "")(descr ""))
+  (lib (name "OPL_footprint")(type "KiCad")(uri "C:/Users/Andy/Documents/KiCad/personal_lib/keyboard/Seeed Studio XIAO Series Library")(options "")(descr ""))
   (lib (name "Scotto_Lib_Alps")(type "KiCad")(uri "${SCOTTOKEEBS_KICAD}/footprints/ScottoKeebs_Alps.pretty")(options "")(descr ""))
   (lib (name "Scotto_Lib_CAD")(type "KiCad")(uri "${SCOTTOKEEBS_KICAD}/footprints/ScottoKeebs_CAD.pretty")(options "")(descr ""))
   (lib (name "Scotto_Lib_Choc")(type "KiCad")(uri "${SCOTTOKEEBS_KICAD}/footprints/ScottoKeebs_Choc.pretty")(options "")(descr ""))

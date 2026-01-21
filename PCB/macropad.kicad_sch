@@ -3168,7 +3168,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
+		(property "Footprint" "ScottoKeebs_Scotto:Encoder_EC11_MX"
 			(at 228.6 119.126 0)
 			(effects
 				(font
@@ -3612,7 +3612,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Scotto_Lib_MX:MX_PCB_1.50u"
+		(property "Footprint" "Scotto_Lib_MX:MX_PCB_1.00u"
 			(at 194.31 120.65 0)
 			(effects
 				(font
@@ -5098,7 +5098,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Scotto_Lib_MX:MX_PCB_1.50u"
+		(property "Footprint" "Scotto_Lib_MX:MX_PCB_1.00u"
 			(at 172.72 120.65 0)
 			(effects
 				(font
