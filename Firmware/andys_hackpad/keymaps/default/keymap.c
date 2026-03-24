@@ -16,9 +16,10 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
      * │ 0 │ . │Ent│ + │
      * └───┴───┴───┴───┘
      */
-    [0] = LAYOUT(
-        KC_P7,   KC_P8,   KC_P9,   
-        KC_P4,   KC_P5,   KC_P6,   
-        KC_P1,   KC_P2,   KC_P3,   
-        KC_P0,   KC_PDOT, KC_PENT     )
+    [0] = LAYOUT_3x4_encoder(
+									KC_MUTE,
+					KC_P7,	KC_P8,	KC_P9,
+        KC_PENT,	KC_P4,	KC_P5,	KC_P6,
+        KC_P0,		KC_P1,	KC_P2,	KC_P3
+	)
 };
