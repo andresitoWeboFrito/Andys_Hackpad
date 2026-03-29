@@ -1,0 +1,2 @@
+OLED_ENABLE = yes
+MCU = RP2040
