@@ -7,3 +7,7 @@
 #define I2C1_SCL_PIN GP7
 #define OLED_I2C_ADDRESS 0x3C
 #define OLED_DRIVER SSD1306
+
+// For the encoder
+#define ENCODERS_PAD_A { GP3 }
+#define ENCODERS_PAD_B { GP4 }
